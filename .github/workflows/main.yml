@@ -15,4 +15,3 @@ jobs:
       run: npm ci
     - name: Run Cypress Tests
       uses: cypress-io/github-action@v3
-      with:
