@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "cypress run",
-    "start": "echo \"Error: no start script specified\" && exit 1"
+    "start": "npx cypress run"
   },
   "keywords": [],
   "author": "",
